@@ -1,0 +1,3 @@
+Ruby's Snack Machine is a random snack dispenser.
+
+When the button to dispense a random snack is pressed, the dispenser would arrive at a randomly selected snack. If the snack is in stock and the user wants it, the user can choose to dispense the snack and go about their day happily sustained with delicious nourishment. If the snack is out of stock or the user decides they don’t want it, the user should be able to cancel the request to reset the machine.
