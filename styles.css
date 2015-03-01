@@ -1,0 +1,76 @@
+body {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Oxygen;
+}
+
+h1 {
+	margin-bottom: 30px;
+	font-family: chewy;
+}
+
+#message {
+	text-align: center;
+	padding: 5px;
+}
+
+.actionBtns {
+	padding-top:5px;
+}
+
+.actionBtns button {
+	width: 100px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+#inputForm {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+li {
+	font-weight: 100;
+	font-size: 18px;
+	margin-top: 20px;
+}
+
+.nameLabel {
+	font-weight: 100;
+	width: 200px;
+	margin-right: 10px;
+}
+
+.quantityLabel {
+	font-weight: 100;
+	width: 200px;
+	margin-left: 10px;
+	vertical-align: middle;
+}
+
+.nameLabel[name=headerLabel] {
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.quantityLabel[name=headerLabel] {
+	font-weight: 900;
+	font-size: 20px;
+}
+
+.refill {
+	font-size: 14px;
+	margin-top: 15px;
+	margin-bottom: 40px;
+	margin-left: 30px;
+}
+
+.refill #input {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.refill .refillBtns {
+	margin-left: 10px;
+}
